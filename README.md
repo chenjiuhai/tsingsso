@@ -1,3 +1,3 @@
 # tsingsso
 
-## SSO for client and servers authentication.
+## SSO for clients and servers authentication.
